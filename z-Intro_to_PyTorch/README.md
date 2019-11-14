@@ -10,5 +10,6 @@ This repo contains (adapted) notebooks and related code from Udacity's Deep Lear
 * **Part 6:** How to save and load trained models
 * **Part 7:** Load image data with torchvision, also data augmentation
 * **Part 8:** Use transfer learning to train a state-of-the-art image classifier for dogs and cats
-* **Part 9:** Two examples of training and evaluating pretrained CNNs for image classifcation (slight code differences)
+* **Parts 9a / 9b:** Two examples of training and evaluating pretrained CNNs for image classifcation (slight code differences)
 * **Part 10:** A fully defined network with separate validation set and 'early stopping' (BEST!)
+* **CNN_exercice_CIFAR10:** An additional exercice, this time with a simple CNN built from scratch (no transfer learning)
