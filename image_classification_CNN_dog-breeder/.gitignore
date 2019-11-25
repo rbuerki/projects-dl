@@ -2,7 +2,7 @@
 # Edit at https://www.gitignore.io/?templates=python,windows,jupyternotebook
 
 ###raph stuff###
-data/
+testImagesRAB/
 
 ### JupyterNotebook ###
 .ipynb_checkpoints
