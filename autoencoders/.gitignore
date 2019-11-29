@@ -3,7 +3,6 @@
 
 ###raph stuff###
 data/
-pics/
 
 ### JupyterNotebook ###
 .ipynb_checkpoints
