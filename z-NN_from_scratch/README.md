@@ -10,13 +10,15 @@
         - Part 2) How to build the Neural Net
         - Part 3) How to tune the Neural Net for better perfomance
 
-* **Part 3:** A demo on weight initialization for NN tuning, not an actual project.
 
-**Other:**
-- There is also another notebook that demonstrates the mechanics of attention in seq2seq models. It is not really related to the other content ... altough it, accidentially, is a _nice visualization of the different vector multiplication methods_ used in building NNs:
-- np.dot()
-- np.matmul()
-- simple multiplication *
+
+**Other:** There is also some additional notebooks that demonstrate certain concepts and are not actual projects:
+
+* **Attention:** Very specific, this notebook demonstrates the mechanics of attention in seq2seq models ... but it is, accidentially, also a _nice visualization of the different vector multiplication methods_ used in building NNs: np.dot() | np.matmul() | simple multiplication *
+
+* **Batch Normalization:** More generic, a demo on batch normalization for NN optimization
+
+* **Weight initialization:** More generic, a demo on weight initialization for NN tuning
 
 
 ### Install
